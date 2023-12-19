@@ -205,7 +205,7 @@ _deps
 *-prefix/
 
 ### Eclipse ###
-.metadata
+!.metadata
 bin/
 tmp/
 *.tmp
